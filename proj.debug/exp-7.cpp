@@ -22,7 +22,7 @@ int main()
     for(x = 0; x < m; x++)
     {
         cin >> SArray[x];
-3        AMerge[y] = SArray[x];
+        AMerge[y] = SArray[x];
         y++;
     }
 
