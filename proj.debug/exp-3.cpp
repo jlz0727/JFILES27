@@ -22,4 +22,10 @@ int main()
             break;
         }
     }
+    if (flag)
+        cout << "Value " << search << " is at index " << index << endl;
+    else
+        cout << "Value not found!" << endl;
+
+    return 0;
 }
