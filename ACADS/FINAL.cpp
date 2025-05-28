@@ -219,6 +219,7 @@ public:
     }
 
     // THIS LINE IS TO CHECK IF A FLOOR EXISTS IN A BUILDING
+    //THIS LINE IS SEARCHING ALGORITHM
     bool isValidFloor(const string& building, const string& floor) const {
         if (buildings.find(building) != buildings.end()) {
             const auto& floors = buildings.at(building);
@@ -230,6 +231,7 @@ public:
     }
 
     // THIS LINE IS TO CHECK IF A ROOM EXISTS IN A FLOOR
+    // THIS LINE IS SEARCHING ALGORITHM
     bool isValidRoom(const string& building, const string& floor, const string& room) const {
         if (buildings.find(building) != buildings.end()) {
             const auto& floors = buildings.at(building);
@@ -339,6 +341,7 @@ public:
     }
 
     // THIS LINE IS TO VIEW THE SHORTEST PATH FOR PENDING REQUESTS USING GREEDY NEAREST NEIGHBOR ALGORITHM
+    // THIS LINE IS SORTING ALGORITHM AND IMPLEMENTING A GREEDY APPROACH
     void viewShortestPath() {
         // THIS LINE IS TO CHECK IF THERE ARE PENDING REQUESTS
         vector<RoomInfo> pendingRooms;
@@ -520,7 +523,7 @@ private:
             auto it = find_if(floors.begin(), floors.end(), [&floor](const pair<string, vector<string>>& f) {
                 return f.first == floor;
             });
-
+            
             if (it != floors.end()) {
                 const auto& rooms = it->second;
                 for (const auto& r : rooms) {
