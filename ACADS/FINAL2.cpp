@@ -35,49 +35,49 @@ public:
         // THIS IS DATA STRUCTURE FOR: MAP BUILDING, FLOOR AND ROOM ORGANIZATION
         buildings["ENGINEERING BUILDING"] = {
             {"Floor 1", {
-                "1 EN 101 (10-15 mins.)", "2 EN 102 (10-15 mins.)", "3 EN 103 (10-15 mins.)", "4 EN 111B (10-15 mins.)", "5 EN 112 (10-15 mins.)", "6 EN 113 (10-15 mins.)", "7 EN 117 (10-15 mins.)", "8 EN 118 (10-15 mins.)",
-                "9 CAS FACULTY ROOM (20 mins.)", "10 ME FACULTY ROOM (10 mins.)", "11 EE FACULTY ROOM (10 mins.)", "12 ECE FACULTY ROOM (10 mins.)",
-                "13 CPE FACULTY ROOM (10 mins.)", "14 CE FACULTY ROOM (10 mins.)", "15 COLLEGE OF ENGINEERING DEPARTMENT (20 mins.)",
-                "16 FACULTY BRIEFING AND TRAINING ROOM (10-15 mins.)", "17 ACCREDITATION ROOM (10-15 mins.)", "18 CE TOOL ROOM (10-15 mins.)",
-                "19 MEC LABORATORY (10-15 mins.)", "20 STRUCTURAL, MATERIAL AND TESTING LABORATORY (10-15 mins.)",
-                "21 FLUID MECHANICS AND HYDRAULICS LABORATORY (10-15 mins.)", "22 MECHANICAL ENGINEERING LABORATORY (10-15 mins.)",
-                "23 MACHINE FABRICATION SHOP (30 mins.)", "24 EN FRONT SIDE WOMEN'S COMFORT ROOM (15-20 mins.)",
-                "25 EN FRONT SIDE MEN'S COMFORT ROOM (15-20 mins.)", "26 EN BACK SIDE WOMENS'S COMFORT ROOM (15-20 mins.)",
-                "27 EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
+                "1 | EN 101 (10-15 mins.)", "2 | EN 102 (10-15 mins.)", "3 | EN 103 (10-15 mins.)", "4 | EN 111B (10-15 mins.)", "5 | EN 112 (10-15 mins.)", "6 | EN 113 (10-15 mins.)", "7 | EN 117 (10-15 mins.)", "8 | EN 118 (10-15 mins.)",
+                "9 | CAS FACULTY ROOM (20 mins.)", "10 | ME FACULTY ROOM (10 mins.)", "11 | EE FACULTY ROOM (10 mins.)", "12 | ECE FACULTY ROOM (10 mins.)",
+                "13 | CPE FACULTY ROOM (10 mins.)", "14 | CE FACULTY ROOM (10 mins.)", "15 | COLLEGE OF ENGINEERING DEPARTMENT (20 mins.)",
+                "16 | FACULTY BRIEFING AND TRAINING ROOM (10-15 mins.)", "17 | ACCREDITATION ROOM (10-15 mins.)", "18 | CE TOOL ROOM (10-15 mins.)",
+                "19 | MEC LABORATORY (10-15 mins.)", "20 | STRUCTURAL, MATERIAL AND TESTING LABORATORY (10-15 mins.)",
+                "21 | FLUID MECHANICS AND HYDRAULICS LABORATORY (10-15 mins.)", "22 | MECHANICAL ENGINEERING LABORATORY (10-15 mins.)",
+                "23 | MACHINE FABRICATION SHOP (30 mins.)", "24 | EN FRONT SIDE WOMEN'S COMFORT ROOM (15-20 mins.)",
+                "25 | EN FRONT SIDE MEN'S COMFORT ROOM (15-20 mins.)", "26 | EN BACK SIDE WOMENS'S COMFORT ROOM (15-20 mins.)",
+                "27 | EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
             }},
             {"Floor 2", {
-                "28 EN 201 (10-15 mins.)", "29 EN 205 (10-15 mins.)", "30 EN 206 (10-15 mins.)", "31 EN 215 (10-15 mins.)", "32 EN 217 (10-15 mins.)", "33 EN 219 (10-15 mins.)",
-                "34 COMPUTER STUDIES AND SYSTEMS FACULTY ROOM (20 mins.)", "35 SATELITE REPAIR CENTER (10-15 mins.)",
-                "36 ELECTRICAL ENGINEERING SHOP (30 mins.)", "37 EE TOOL ROOM (10-15 mins.)", "38 ECE/COE TOOL ROOM (10-15 mins.)",
-                "39 PHYSICS LABORATORY STOCK ROOM (15-20 mins.)", "40 CHEMISTRY LABORATORY STOCK ROOM (15-20 mins.)",
-                "41 BIO LABORATORY STOCK ROOM (15-20 mins.)", "42 OPEN LABORATORY ROOM (10-15 mins.)", "43 NET LABORATORY (10-15 mins.)",
-                "44 ECE LABORATORY ROOM I (10-15 mins.)", "45 ECE LABORATORY ROOM II (10-15 mins.)", "46 ECE LABORATORY ROOM III (10-15 mins.)",
-                "47 ECE LABORATORY ROOM IV (10-15 mins.)", "48 ELECTRICAL POWER ENGINEERING LABORATORY ROOM I (10-15 mins.)",
-                "49 ELECTRICAL POWER ENGINEERING LABORATORY ROOM II (10-15 mins.)",
-                "50 ELECTRICAL POWER ENGINEERINGCOMPUTER LABORATORY ROOM III (10-15 mins.)",
-                "51 ELECTRICAL POWER ENGINEERING LABORATORY ROOM IV (10-15 mins.)", "52 COMPUTER LABORATORY ROOM II (10-15 mins.)",
-                "53 COMPUTER LABORATORY ROOM III (10-15 mins.)", "54 COMPUTER LABORATORY ROOM IV (10-15 mins.)",
-                "55 COMPUTER LABORATORY ROOM V (10-15 mins.)", "56 COMPUTER LABORATORY ROOM VI (10-15 mins.)",
-                "57 COMPUTER LABORATORY ROOM VII (10-15 mins.)", "58 COMPUTER LABORATORY ROOM VIII (10-15 mins.)",
-                "59 EN FRONT SIDE WOMEN'S COMFORT ROOM (15-20 mins.)", "60 EN FRONT SIDE MEN'S COMFORT ROOM (15-20 mins.)",
-                "61 EN BACK SIDE WOMEN'S COMFORT ROOM (15-20 mins.)", "62 EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
+                "28 | EN 201 (10-15 mins.)", "29 | EN 205 (10-15 mins.)", "30 | EN 206 (10-15 mins.)", "31 | EN 215 (10-15 mins.)", "32 | EN 217 (10-15 mins.)", "33 | EN 219 (10-15 mins.)",
+                "34 | COMPUTER STUDIES AND SYSTEMS FACULTY ROOM (20 mins.)", "35 | SATELITE REPAIR CENTER (10-15 mins.)",
+                "36 | ELECTRICAL ENGINEERING SHOP (30 mins.)", "37 | EE TOOL ROOM (10-15 mins.)", "38 | ECE/COE TOOL ROOM (10-15 mins.)",
+                "39 | PHYSICS LABORATORY STOCK ROOM (15-20 mins.)", "40 | CHEMISTRY LABORATORY STOCK ROOM (15-20 mins.)",
+                "41 | BIO LABORATORY STOCK ROOM (15-20 mins.)", "42 | OPEN LABORATORY ROOM (10-15 mins.)", "43 | NET LABORATORY (10-15 mins.)",
+                "44 | ECE LABORATORY ROOM I (10-15 mins.)", "45 | ECE LABORATORY ROOM II (10-15 mins.)", "46 | ECE LABORATORY ROOM III (10-15 mins.)",
+                "47 | ECE LABORATORY ROOM IV (10-15 mins.)", "48 | ELECTRICAL POWER ENGINEERING LABORATORY ROOM I (10-15 mins.)",
+                "49 | ELECTRICAL POWER ENGINEERING LABORATORY ROOM II (10-15 mins.)",
+                "50 | ELECTRICAL POWER ENGINEERINGCOMPUTER LABORATORY ROOM III (10-15 mins.)",
+                "51 | ELECTRICAL POWER ENGINEERING LABORATORY ROOM IV (10-15 mins.)", "52 | COMPUTER LABORATORY ROOM II (10-15 mins.)",
+                "53 | COMPUTER LABORATORY ROOM III (10-15 mins.)", "54 | COMPUTER LABORATORY ROOM IV (10-15 mins.)",
+                "55 | COMPUTER LABORATORY ROOM V (10-15 mins.)", "56 | COMPUTER LABORATORY ROOM VI (10-15 mins.)",
+                "57 | COMPUTER LABORATORY ROOM VII (10-15 mins.)", "58 | COMPUTER LABORATORY ROOM VIII (10-15 mins.)",
+                "59 | EN FRONT SIDE WOMEN'S COMFORT ROOM (15-20 mins.)", "60 | EN FRONT SIDE MEN'S COMFORT ROOM (15-20 mins.)",
+                "61 | EN BACK SIDE WOMEN'S COMFORT ROOM (15-20 mins.)", "62 | EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
             }},
             {"Floor 3", {
-                "63 EN 301 (10-15 mins.)", "64 EN 302 (10-15 mins.)", "65 EN 303 (10-15 mins.)", "66 EN 304 (10-15 mins.)", "67 EN 305 (10-15 mins.)", "68 EN 306 (10-15 mins.)", "69 EN 307 (10-15 mins.)", "70 EN 308 (10-15 mins.)",
-                "71 EN 309 (10-15 mins.)", "72 EN 310 (10-15 mins.)", "73 EN 311 (10-15 mins.)", "74 EN 312 (10-15 mins.)", "75 EN 313 (10-15 mins.)", "76 EN 317 (10-15 mins.)", "77 EN 318 (10-15 mins.)", "78 EN 319 (10-15 mins.)",
-                "79 EN LIBRARY (30 mins.)", "80 IECEP OFFICE (10-15 mins.)", "81 DAWN KALOOKAN BUREAU (10-15 mins.)", "82 MPH I (30 mins.)", "83 MPH II (30 mins.)",
-                "84 ENTREPRENEUR LABORATORY ROOM III (15-20 mins.)", "85 EN FRONT SIDE WOMEN'S COMFORT ROOM (15-20 mins.)",
-                "86 EN FRONT SIDE MEN'S COMFORT ROOM (15-20 mins.)", "87 EN BACK SIDE WOMEN'S COMFORT ROOM (15-20 mins.)",
-                "88 EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
+                "63 | EN 301 (10-15 mins.)", "64 | EN 302 (10-15 mins.)", "65 | EN 303 (10-15 mins.)", "66 | EN 304 (10-15 mins.)", "67 | EN 305 (10-15 mins.)", "68 | EN 306 (10-15 mins.)", "69 | EN 307 (10-15 mins.)", "70 | EN 308 (10-15 mins.)",
+                "71 | EN 309 (10-15 mins.)", "72 | EN 310 (10-15 mins.)", "73 | EN 311 (10-15 mins.)", "74 | EN 312 (10-15 mins.)", "75 | EN 313 (10-15 mins.)", "76 | EN 317 (10-15 mins.)", "77 | EN 318 (10-15 mins.)", "78 | EN 319 (10-15 mins.)",
+                "79 | EN LIBRARY (30 mins.)", "80 | IECEP OFFICE (10-15 mins.)", "81 | DAWN KALOOKAN BUREAU (10-15 mins.)", "82 | MPH I (30 mins.)", "83 | MPH II (30 mins.)",
+                "84 | ENTREPRENEUR LABORATORY ROOM III (15-20 mins.)", "85 | EN FRONT SIDE WOMEN'S COMFORT ROOM (15-20 mins.)",
+                "86 | EN FRONT SIDE MEN'S COMFORT ROOM (15-20 mins.)", "87 | EN BACK SIDE WOMEN'S COMFORT ROOM (15-20 mins.)",
+                "88 | EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
             }},
             {"Floor 4", {
-                "89 EN 401 (10-15 mins.)", "90 EN 402 (10-15 mins.)", "91 EN 403 (10-15 mins.)", "92 EN 404 (10-15 mins.)", "93 EN 405 (10-15 mins.)", "94 EN 406 (10-15 mins.)", "95 EN 407 (10-15 mins.)", "96 EN 408 (10-15 mins.)",
-                "97 EN 409 (10-15 mins.)", "98 EN 410 (10-15 mins.)", "99 EN 411 (10-15 mins.)", "100 EN 412 (10-15 mins.)", "101 EN 413 (10-15 mins.)", "102 EN 414 (10-15 mins.)", "103 EN 415 (10-15 mins.)", "104 EN 416 (10-15 mins.)",
-                "105 EN 417 (10-15 mins.)", "106 EN 418 (10-15 mins.)", "107 EN 418 (10-15 mins.)", "108 EN 419 (10-15 mins.)", "109 EN 420 (10-15 mins.)", "110 EN 421 (10-15 mins.)", "111 EN 422 (10-15 mins.)", "112 EN 423 (10-15 mins.)",
-                "113 EN 424 (10-15 mins.)", "114 EN 425 (10-15 mins.)", "115 EN 426 (10-15 mins.)", "116 EN 427 (10-15 mins.)", "117 EN 428 (10-15 mins.)", "118 EN 429 (10-15 mins.)", "119 EN 430 (10-15 mins.)", "120 EN 431 (10-15 mins.)",
-                "121 EN 432 (10-15 mins.)", "122 EN 433 (10-15 mins.)", "123 EN 434 (10-15 mins.)", "124 EN D1 (10-15 mins.)", "125 EN D2 (10-15 mins.)", "126 EN D3 (10-15 mins.)", "127 EN D4 (10-15 mins.)", "128 EN D5 (10-15 mins.)", "129 EN D6 (10-15 mins.)",
-                "130 ASSOCIATION OF ELECTRICAL ENGINEERING STUDENTS ROOM (10-15 mins.)", "131 STOCK ROOM (15-20 mins.)",
-                "132 EN BACK SIDE WOMEN'S COMFORT ROOM (15-20 mins.)", "133 EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
+                "89 | EN 401 (10-15 mins.)", "90 | EN 402 (10-15 mins.)", "91 | EN 403 (10-15 mins.)", "92 | EN 404 (10-15 mins.)", "93 | EN 405 (10-15 mins.)", "94 | EN 406 (10-15 mins.)", "95 | EN 407 (10-15 mins.)", "96 | EN 408 (10-15 mins.)",
+                "97 | EN 409 (10-15 mins.)", "98 | EN 410 (10-15 mins.)", "99 | EN 411 (10-15 mins.)", "100 | EN 412 (10-15 mins.)", "101 | EN 413 (10-15 mins.)", "102 | EN 414 (10-15 mins.)", "103 | EN 415 (10-15 mins.)", "104 | EN 416 (10-15 mins.)",
+                "105 | EN 417 (10-15 mins.)", "106 | EN 418 (10-15 mins.)", "107 | EN 418 (10-15 mins.)", "108 | EN 419 (10-15 mins.)", "109 | EN 420 (10-15 mins.)", "110 | EN 421 (10-15 mins.)", "111 | EN 422 (10-15 mins.)", "112 | EN 423 (10-15 mins.)",
+                "113 | EN 424 (10-15 mins.)", "114 | EN 425 (10-15 mins.)", "115 | EN 426 (10-15 mins.)", "116 | EN 427 (10-15 mins.)", "117 | EN 428 (10-15 mins.)", "118 | EN 429 (10-15 mins.)", "119 | EN 430 (10-15 mins.)", "120 | EN 431 (10-15 mins.)",
+                "121 | EN 432 (10-15 mins.)", "122 | EN 433 (10-15 mins.)", "123 | EN 434 (10-15 mins.)", "124 | EN D1 (10-15 mins.)", "125 | EN D2 (10-15 mins.)", "126 | EN D3 (10-15 mins.)", "127 | EN D4 (10-15 mins.)", "128 | EN D5 (10-15 mins.)", "129 | EN D6 (10-15 mins.)",
+                "130 | ASSOCIATION OF ELECTRICAL ENGINEERING STUDENTS ROOM (10-15 mins.)", "131 | STOCK ROOM (15-20 mins.)",
+                "132 | EN BACK SIDE WOMEN'S COMFORT ROOM (15-20 mins.)", "133 | EN BACK SIDE MEN'S COMFORT ROOM (15-20 mins.)"
             }}
         };
     }
